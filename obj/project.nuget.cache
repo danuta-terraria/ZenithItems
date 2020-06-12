@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xMlI0W4Dsy/ww+GMjbfCECLZ8LfrUvvN7KB7YYpl7bULzVfKDHKs0a71JUGI2Dyfed8lIYDTS2ORTgY7WCthYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mary Kinny\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ZenithItems\\ZenithItems.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mary Kinny\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

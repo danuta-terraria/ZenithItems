@@ -1,0 +1,10 @@
+This mod introduces 3 Zenith-equivalent tier items: a new bow, a new summoning staff, and a new spellbook. They are all crafted using an Anvil.
+
+The Ultimate Alternator, crafted from:
+Wood Bow + Demon Bow / Tendon Bow + Hellwing Bow + The Bees Knees + Molten Bow + Daedulus Stormbow + Shadowflame Bow + Tsunami + Phantasm 
+
+The Summit Staff, crafted from:
+Hornet Staff + Imp Staff + Spider Staff + Optic Staff + Xeno Staff + Raven Staff + Rainbow Crystal Staff + Stardust Dragon Staff
+
+The Gathering, crafted from:
+Space Gun + Water Bolt + Crystal Storm + Meteor Staff + Sky Fracture + Laser Machinegun + Razorblade Typhoon + Nebula Blaze + Last Prism
